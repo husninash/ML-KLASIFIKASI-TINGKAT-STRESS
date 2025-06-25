@@ -1,0 +1,177 @@
+Umur,Cohort,Jenis Kelamin,IPS Semester sebelumnya,Jumlah tugas perminggu,Organisasi yang diikuti,UKM Wajib yang diikuti,Durasi tidur malam (jam),Frekuensi olahraga/minggu,Kebiasaan makan sehat (skala 1-6),"Selama sebulan terakhir, seberapa sering anda marah karena sesuatu yang tidak terduga terjadi?  ","Dalam sebulan terakhir, seberapa sering Anda merasa tidak mampu mengendalikan hal-hal penting dalam hidup Anda?  ","Dalam sebulan terakhir, seberapa sering Anda merasa gelisah atau tegang?  "," Selama sebulan terakhir, seberapa sering anda merasa yakin terhadap kemampuan diri untuk mengatasi masalah pribadi  ?","Selama sebulan terakhir, seberapa sering anda merasa segala sesuatu yang terjadi sesuai dengan harapan anda? ","Dalam sebulan terakhir, seberapa sering Anda merasa bahwa Anda  tidak mampu menyelesaikan hal-hal yang harus dikerjakan  ?  ","Selama sebulan terakhir, seberapa sering anda mampu mengontrol rasa mudah tersinggung dalam kehidupan anda?","Selama sebulan terakhir, seberapa sering anda merasa lebih mampu mengatasi masalah jika dibandingkan dengan orang lain?","Dalam sebulan terakhir, seberapa sering Anda merasa marah karena hal-hal di luar kendali Anda?  ","Dalam sebulan terakhir, seberapa sering Anda merasa bahwa kesulitan Anda menumpuk sehingga Anda tidak dapat mengatasinya?  ",Kebiasaan meditasi/relaksasi,Total uang dari Orang Tua,Uang Saku Kadet Unhan,Prodi
+20,5,Perempuan,4,10,Tak ada,Calon Genderang Suling,3,7,5,2,1,2,4,2,1,2,2,2,2,TIDAK,1000000,630,KEDOKTERAN
+18,5,Perempuan,4,4,Humas,Calon Genderang Suling,4,3,4,2,3,1,2,2,2,3,2,3,1,TIDAK,500,630,INFORMATIKA
+20,5,Perempuan,4,8,Tak ada,Paduan Suara,6,7,4,3,3,3,3,3,2,2,2,2,2,YA,500,630,KEDOKTERAN
+19,5,Laki-Laki,4,8,Tak ada,Paduan Suara,5,7,4,3,1,2,3,2,1,2,2,2,2,TIDAK,350,630,KEDOKTERAN
+19,5,Laki-Laki,4,8,Rohis,Calon Genderang Suling,4,7,4,3,3,4,2,2,3,2,1,3,3,TIDAK,200,630,KEDOKTERAN
+18,5,Laki-Laki,4,6,Tak ada,Orkestra,3,3,6,0,0,0,1,0,0,0,0,0,0,TIDAK,100000,630,TEKNIK SIPIL
+18,5,Perempuan,4,10,Tak ada,Paduan Suara,5,3,5,2,2,2,2,3,2,2,2,2,2,TIDAK,0,630,KEDOKTERAN
+18,5,Laki-Laki,4,4,Humas,Orkestra,5,5,5,3,2,3,5,2,3,4,2,2,2,TIDAK,100000,630,INFORMATIKA
+18,5,Laki-Laki,4,2,Tak ada,Paduan Suara,3,7,6,0,1,0,1,2,1,1,1,1,1,TIDAK,0,620000,INFORMATIKA
+20,5,Perempuan,3.98,5,Tak ada,Calon Genderang Suling,4,3,5,0,2,1,4,3,2,3,3,2,1,YA,0,630,INFORMATIKA
+18,5,Laki-Laki,3.98,2,Tak ada,Paduan Suara,4,2,4,3,4,3,2,1,3,3,1,3,3,TIDAK,0,630,INFORMATIKA
+20,4,Perempuan,3.98,9,Humas,Calon Genderang Suling,4,4,5,3,3,2,5,2,2,2,2,2,2,TIDAK,600,777,INFORMATIKA
+18,4,Laki-Laki,3.98,4,Humas,Calon Genderang Suling,4,5,5,2,2,1,4,3,1,2,3,3,2,TIDAK,200000,600000,INFORMATIKA
+18,5,Laki-Laki,3.98,4,Tak ada,Calon Genderang Suling,4,4,5,0,0,1,4,2,1,3,4,0,0,YA,0,630,TEKNIK SIPIL
+19,5,Perempuan,3.97,4,Tak ada,Orkestra,6,2,5,1,1,3,4,3,1,3,3,1,1,YA,500000,630,INFORMATIKA
+18,5,Laki-Laki,3.97,5,Tak ada,Calon Genderang Suling,2,5,5,3,4,4,2,1,4,1,1,3,4,TIDAK,200,600,KIMIA
+20,4,Perempuan,3.97,3,Rohis,Paduan Suara,5,2,4,3,3,2,2,3,2,2,2,3,2,TIDAK,800000,777000,INFORMATIKA
+18,5,Perempuan,3.95,5,Humas,Calon Genderang Suling,6,3,5,2,1,1,5,3,2,3,3,1,1,TIDAK,1000000,630000,TEKNIK ELEKTRO
+19,5,Laki-Laki,3.94,5,Tak ada,Calon Genderang Suling,4,5,6,0,0,0,2,1,1,0,0,1,0,TIDAK,1000000,630000,MATEMATIKA
+18,5,Perempuan,3.94,4,Tak ada,Calon Genderang Suling,6,3,4,4,2,2,3,2,2,1,1,2,2,TIDAK,300000,630,MATEMATIKA
+19,4,Perempuan,3.93,3,Tak ada,Calon Genderang Suling,6,3,6,2,0,0,5,2,0,2,2,2,2,TIDAK,500,777,INFORMATIKA
+19,5,Laki-Laki,3.93,14,Tak ada,Orkestra,4,1,6,3,2,3,5,2,1,3,2,2,2,TIDAK,1200000,630,MATEMATIKA
+19,5,Laki-Laki,3.93,7,Tak ada,Calon Genderang Suling,3,3,4,2,2,2,5,3,1,3,3,1,1,YA,1500000,670000,KIMIA
+18,5,Perempuan,3.93,5,Tak ada,Paduan Suara,5,7,4,4,4,3,2,1,2,1,1,4,3,TIDAK,500000,630000,KIMIA
+19,5,Laki-Laki,3.91,4,Tak ada,Calon Genderang Suling,4,5,6,1,0,0,5,3,1,1,4,1,1,YA,300,630,TEKNIK SIPIL
+19,5,Perempuan,3.9,8,Tak ada,Calon Genderang Suling,4,7,4,1,2,2,4,2,1,3,3,1,1,TIDAK,1000000,600000,KIMIA
+20,5,Laki-Laki,3.9,11,Rohis,Orkestra,3,7,5,1,0,1,5,3,1,3,4,1,0,TIDAK,0,630,FISIKA
+20,5,Perempuan,3.9,5,Tak ada,Calon Genderang Suling,3,2,4,3,2,2,3,3,1,3,3,3,1,TIDAK,200,630,MATEMATIKA
+18,5,Laki-Laki,3.9,5,Tak ada,Calon Genderang Suling,4,3,5,3,3,4,4,2,2,1,3,3,3,TIDAK,1500000,630,RSDA
+19,5,Laki-Laki,3.9,5,Humas,Calon Genderang Suling,3,2,2,2,3,3,5,2,1,1,3,1,1,TIDAK,500,630,INFORMATIKA
+20,4,Laki-Laki,3.9,3,Humas,Calon Genderang Suling,7,3,6,2,1,2,3,4,4,3,2,2,2,YA,0,700,INFORMATIKA
+19,5,Perempuan,3.9,5,Tak ada,Calon Genderang Suling,5,1,4,2,3,3,2,3,2,4,3,1,4,TIDAK,50,630,FARMASI
+19,5,Perempuan,3.9,3,Humas,Calon Genderang Suling,4,1,4,1,3,3,3,1,2,2,3,3,3,TIDAK,0,650,TEKNIK SIPIL
+19,5,Perempuan,3.88,3,Humas,Calon Genderang Suling,5,2,5,2,1,2,4,3,1,2,3,2,2,YA,500,600,RSDA
+18,5,Laki-Laki,3.88,4,Humas,Calon Genderang Suling,4,2,6,2,2,4,3,3,2,1,2,1,3,TIDAK,500000,630000,FARMASI
+19,5,Laki-Laki,3.88,3,Humas,Orkestra,5,3,4,4,3,4,3,2,3,2,2,4,4,TIDAK,200,630,INFORMATIKA
+19,5,Perempuan,3.88,5,Tak ada,Calon Genderang Suling,5,7,5,3,2,1,3,3,2,3,3,3,2,YA,0,630,MATEMATIKA
+19,5,Laki-Laki,3.88,3,Rohis,Calon Genderang Suling,5,7,6,0,0,0,1,0,0,0,0,0,0,YA,500,630,RSDA
+18,5,Laki-Laki,3.88,8,Humas,Calon Genderang Suling,3,10,2,4,1,4,3,3,3,1,3,4,3,TIDAK,0,600,RSDA
+19,5,Perempuan,3.85,5,Tak ada,Orkestra,5,3,6,2,0,0,5,3,1,4,3,2,0,YA,500,630,TEKNIK SIPIL
+18,5,Perempuan,3.84,10,Tak ada,Orkestra,4,2,5,1,2,3,4,3,3,3,3,3,3,TIDAK,500000,600,RSDA
+19,5,Laki-Laki,3.84,7,Humas,Orkestra,3,2,4,1,2,1,5,2,1,4,3,0,2,TIDAK,200,630,MATEMATIKA
+19,5,Laki-Laki,3.84,5,Tak ada,Orkestra,5,7,6,0,0,0,5,4,0,4,4,0,0,YA,200,630,RSDA
+19,5,Perempuan,3.83,10,Humas,Calon Genderang Suling,3,3,4,4,4,4,2,1,3,1,1,4,4,TIDAK,1000000,650,KIMIA
+18,5,Laki-Laki,3.83,2,Tak ada,Tidak Mengikuti UKM apapun,5,2,4,1,2,2,3,2,1,2,2,1,1,TIDAK,500,630,RSDA
+18,5,Laki-Laki,3.81,2,Tak ada,Calon Genderang Suling,4,2,4,2,2,3,4,2,1,2,2,3,1,TIDAK,100,650,MATEMATIKA
+20,5,Laki-Laki,3.81,2,Rohis,Calon Genderang Suling,4,3,4,2,1,2,3,2,1,2,2,1,1,TIDAK,0,630000,MATEMATIKA
+18,5,Laki-Laki,3.81,3,Tak ada,Orkestra,3,7,4,1,1,1,4,3,0,3,2,2,1,TIDAK,500000,630,RSDA
+19,5,Perempuan,3.8,5,Rohis,Calon Genderang Suling,4,4,2,2,1,1,4,2,3,2,3,3,3,TIDAK,500000,600000,FARMASI
+18,5,Laki-Laki,3.8,3,Tak ada,Orkestra,3,5,4,3,1,3,4,2,1,4,3,2,3,TIDAK,1000000,630000,KIMIA
+18,5,Perempuan,3.8,9,Tak ada,Orkestra,5,3,6,3,1,1,4,3,1,3,3,2,2,TIDAK,500,630,FARMASI
+19,5,Perempuan,3.8,10,Rohis,Calon Genderang Suling,5,2,6,2,0,1,4,2,1,2,2,1,2,TIDAK,500000,630000,RSDA
+19,5,Perempuan,3.8,10,Tak ada,Paduan Suara,5,7,6,0,0,0,5,4,0,4,4,0,0,YA,0,630000,RSDA
+18,5,Laki-Laki,3.8,4,Rohis,Calon Genderang Suling,5,5,4,2,2,3,3,2,1,2,2,2,2,TIDAK,0,630,INFORMATIKA
+19,5,Laki-Laki,3.8,5,Tak ada,Calon Genderang Suling,3,0,4,4,4,4,5,4,4,4,4,4,4,TIDAK,0,630,RSDA
+18,5,Laki-Laki,3.8,7,Tak ada,Calon Genderang Suling,6,4,4,2,1,1,5,4,2,3,3,2,4,YA,0,630000,INFORMATIKA
+19,5,Perempuan,3.8,8,Tak ada,Calon Genderang Suling,4,7,5,1,0,3,5,4,0,4,4,1,2,TIDAK,200,630,KIMIA
+18,5,Laki-Laki,3.8,4,Tak ada,Calon Genderang Suling,5,2,5,3,2,2,4,2,2,2,2,2,2,YA,500,630,KIMIA
+19,5,Perempuan,3.79,3,Tak ada,Calon Genderang Suling,5,2,6,2,1,3,5,1,3,4,0,3,4,TIDAK,300,630,RSDA
+19,5,Laki-Laki,3.78,4,Tak ada,Calon Genderang Suling,3,2,6,3,0,1,5,2,1,2,4,1,2,YA,0,630000,MATEMATIKA
+19,4,Perempuan,3.78,3,Tak ada,Calon Genderang Suling,4,2,5,3,0,0,4,3,1,4,4,2,0,TIDAK,500000,770000,INFORMATIKA
+19,5,Laki-Laki,3.77,14,Tak ada,Orkestra,5,2,4,0,0,0,4,3,0,3,3,0,0,TIDAK,500,630,MATEMATIKA
+19,5,Laki-Laki,3.75,7,Tak ada,Calon Genderang Suling,4,3,6,1,0,4,4,2,3,3,1,3,2,TIDAK,0,630,MATEMATIKA
+18,5,Laki-Laki,3.75,7,Tak ada,Calon Genderang Suling,3,5,4,1,3,4,3,3,3,4,3,1,1,TIDAK,200000,630000,MATEMATIKA
+18,5,Perempuan,3.75,2,Tak ada,Calon Genderang Suling,3,2,4,4,3,3,4,2,2,3,3,4,3,TIDAK,300000,630,RSDA
+19,5,Laki-Laki,3.74,5,Tak ada,Orkestra,4,5,5,0,1,1,5,3,1,4,4,0,0,TIDAK,300,630,MATEMATIKA
+20,5,Perempuan,3.73,12,Tak ada,Calon Genderang Suling,2,7,5,4,4,4,3,1,4,2,1,4,4,YA,1000000,630000,FISIKA
+18,5,Perempuan,3.73,7,Rohis,Calon Genderang Suling,4,2,5,4,4,4,3,2,4,2,1,3,4,TIDAK,1000000,630000,KIMIA
+19,5,Laki-Laki,3.73,14,Tak ada,Calon Genderang Suling,4,2,4,2,1,1,3,3,2,3,3,2,2,TIDAK,300000,630,MATEMATIKA
+18,5,Perempuan,3.7,10,Rohis,Calon Genderang Suling,4,2,5,1,1,3,4,1,1,3,3,2,3,YA,200,630,FARMASI
+19,5,Laki-Laki,3.7,12,Humas,Calon Genderang Suling,2,4,6,0,1,3,5,2,0,4,3,0,1,YA,100000,600000,FISIKA
+18,5,Perempuan,3.7,5,Rohis,Orkestra,4,7,5,3,1,2,4,2,2,2,2,2,2,TIDAK,300000,630,MATEMATIKA
+18,5,Laki-Laki,3.7,5,Tak ada,Calon Genderang Suling,5,4,6,1,1,1,2,1,1,1,1,1,1,YA,100000,630,TEKNIK ELEKTRO
+18,5,Perempuan,3.7,5,Tak ada,Calon Genderang Suling,5,5,4,2,3,3,3,3,3,2,2,2,3,TIDAK,500000,630,RSDA
+19,5,Laki-Laki,3.7,4,Tak ada,Calon Genderang Suling,3,2,5,2,2,3,3,1,2,2,2,2,2,TIDAK,0,630,RSDA
+18,5,Laki-Laki,3.69,4,Tak ada,Paduan Suara,4,4,5,3,3,3,4,2,3,2,2,3,3,TIDAK,200,630,RSDA
+19,5,Perempuan,3.69,5,Tak ada,Calon Genderang Suling,4,6,5,3,2,3,4,3,1,3,3,3,1,YA,300000,630000,KIMIA
+19,5,Laki-Laki,3.69,8,Tak ada,Calon Genderang Suling,2,5,4,4,3,4,2,2,4,2,2,3,4,TIDAK,0,620,KIMIA
+19,5,Laki-Laki,3.69,3,Humas,Calon Genderang Suling,4,2,4,0,2,2,2,2,1,3,3,2,2,TIDAK,500,630,KEDOKTERAN
+18,5,Laki-Laki,3.69,5,Tak ada,Calon Genderang Suling,4,2,5,2,2,3,3,2,2,3,3,2,2,YA,0,630,RSDA
+19,5,Laki-Laki,3.67,4,Tak ada,Calon Genderang Suling,4,7,5,3,4,4,3,3,2,2,2,4,2,TIDAK,0,630000,MATEMATIKA
+20,5,Perempuan,3.67,5,Humas,Orkestra,4,3,5,2,1,1,4,3,1,3,3,3,1,TIDAK,0,630,RSDA
+19,5,Laki-Laki,3.67,3,Tak ada,Calon Genderang Suling,4,1,3,1,3,2,2,3,3,1,1,1,3,TIDAK,400000,638,RSDA
+18,5,Perempuan,3.66,5,Humas,Calon Genderang Suling,4,3,3,3,0,2,3,0,2,3,0,0,0,TIDAK,1000000,600,FARMASI
+18,5,Perempuan,3.66,7,Tak ada,Paduan Suara,4,,5,4,3,4,5,4,2,2,4,4,2,TIDAK,1000000,630000,KIMIA
+19,5,Laki-Laki,3.65,4,Humas,Calon Genderang Suling,5,3,5,3,3,4,4,3,3,2,1,3,4,TIDAK,500,630,TEKNIK ELEKTRO
+19,5,Perempuan,3.65,5,Humas,Orkestra,3,2,5,2,3,3,2,2,2,1,1,3,3,TIDAK,500000,600,MATEMATIKA
+19,5,Perempuan,3.64,4,Tak ada,Paduan Suara,5,4,4,3,0,4,4,4,0,3,4,4,0,TIDAK,200,630,MATEMATIKA
+19,5,Laki-Laki,3.63,10,Tak ada,Orkestra,2,1,6,4,4,4,5,4,4,4,4,4,4,YA,0,650000,SEJARAH MILITER
+18,5,Laki-Laki,3.61,4,Tak ada,Calon Genderang Suling,5,5,6,2,3,3,4,1,2,2,3,1,1,TIDAK,500,630,TEKNIK ELEKTRO
+20,5,Perempuan,3.6,10,Tak ada,Calon Genderang Suling,2,7,4,2,0,2,4,1,1,2,2,2,2,TIDAK,0,630,RSDA
+19,5,Laki-Laki,3.6,7,Humas,Calon Genderang Suling,4,2,5,0,4,0,5,2,0,4,3,3,0,TIDAK,0,630000,TEKNIK ELEKTRO
+20,5,Laki-Laki,3.6,3,Rohis,Calon Genderang Suling,3,2,4,4,3,3,3,3,3,4,3,4,3,YA,800,630,KEDOKTERAN
+18,5,Laki-Laki,3.6,5,Tak ada,Orkestra,4,2,6,4,4,4,5,4,4,4,4,4,4,TIDAK,500000,660,KEDOKTERAN
+20,5,Laki-Laki,3.6,2,Tradisi,Orkestra,7,3,5,3,2,2,4,2,3,1,3,3,3,TIDAK,200,600,TEKNIK ELEKTRO
+18,5,Perempuan,3.6,15,Tak ada,Calon Genderang Suling,3,3,5,4,3,2,5,2,1,4,3,3,1,TIDAK,200,630,KEDOKTERAN
+19,5,Perempuan,3.6,15,Tak ada,Orkestra,4,7,6,2,1,2,4,2,2,3,4,2,3,YA,300000,630,KEDOKTERAN
+17,5,Perempuan,3.6,15,Tak ada,Calon Genderang Suling,3,5,4,1,0,3,5,3,0,4,4,0,1,TIDAK,0,600,KEDOKTERAN
+20,5,Laki-Laki,3.6,6,Tak ada,Paduan Suara,4,1,4,4,3,4,1,3,4,2,1,4,4,TIDAK,0,630,RSDA
+18,5,Laki-Laki,3.6,3,Polisi Kadet,Calon Genderang Suling,8,5,6,1,1,1,4,4,1,3,3,1,1,TIDAK,0,600,KEDOKTERAN
+18,5,Perempuan,3.6,6,Tak ada,Calon Genderang Suling,3,1,5,4,4,2,2,3,3,2,2,3,3,TIDAK,0,600,KEDOKTERAN
+20,5,Perempuan,3.59,12,Tak ada,Calon Genderang Suling,2,3,6,0,0,1,5,1,1,4,4,1,2,TIDAK,0,630000,FISIKA
+19,5,Laki-Laki,3.57,2,Tak ada,Calon Genderang Suling,6,2,5,2,2,2,4,2,2,2,2,1,1,TIDAK,200,630,INFORMATIKA
+19,5,Perempuan,3.56,10,Tak ada,Calon Genderang Suling,4,2,4,3,3,4,5,3,3,3,3,3,3,TIDAK,500,630,KIMIA
+18,5,Laki-Laki,3.56,3,Humas,Calon Genderang Suling,4,3,4,3,3,3,3,3,2,2,2,3,3,TIDAK,500000,630,KEDOKTERAN
+19,5,Laki-Laki,3.56,2,Lemus,Calon Genderang Suling,4,3,6,2,0,0,5,2,1,3,3,2,0,YA,0,630,INFORMATIKA
+19,5,Laki-Laki,3.56,5,Tak ada,Calon Genderang Suling,4,4,5,2,3,2,3,3,3,4,2,2,1,YA,500000,620000,KEDOKTERAN
+18,5,Laki-Laki,3.56,5,Rohis,Orkestra,5,7,6,1,0,0,5,3,0,4,4,0,0,YA,0,630,KEDOKTERAN
+21,4,Perempuan,3.55,7,Lemus,Calon Genderang Suling,4,2,6,3,2,2,4,3,1,2,3,3,2,YA,1000000,777000,MATEMATIKA
+18,5,Laki-Laki,3.54,5,Tak ada,Calon Genderang Suling,3,3,5,4,4,4,2,1,4,2,2,4,4,TIDAK,300,640,RSDA
+21,4,Laki-Laki,3.54,3,Tak ada,Calon Genderang Suling,5,4,4,2,2,2,3,2,2,2,2,2,2,TIDAK,0,777.777,INFORMATIKA
+19,5,Laki-Laki,3.51,5,Tak ada,Calon Genderang Suling,3,0,4,2,2,1,2,2,1,2,2,1,2,TIDAK,500,630,MATEMATIKA
+19,4,Laki-Laki,3.51,3,Tak ada,Calon Genderang Suling,6,5,3,2,2,2,2,2,2,2,2,2,2,TIDAK,0,770,TEKNIK ELEKTRO
+19,5,Laki-Laki,3.5,6,Tak ada,Orkestra,3,4,6,3,2,2,4,2,1,3,3,3,3,YA,200000,600000,KEDOKTERAN
+19,5,Laki-Laki,3.5,7,Tak ada,Calon Genderang Suling,4,5,5,2,1,3,4,2,2,3,2,1,3,TIDAK,1000000,630,KEDOKTERAN
+18,5,Perempuan,3.5,5,Rohis,Paduan Suara,4,4,4,1,1,1,5,4,1,3,4,2,1,TIDAK,300000,630000,KIMIA
+20,5,Perempuan,3.5,13,Humas,Calon Genderang Suling,4,6,5,2,1,4,2,2,1,3,3,3,2,TIDAK,0,600000,FISIKA
+18,5,Laki-Laki,3.5,8,Tak ada,Calon Genderang Suling,3,2,1,4,0,4,1,0,0,4,0,4,4,TIDAK,0,630,TEKNIK ELEKTRO
+18,5,Laki-Laki,3.5,3,Rohis,Calon Genderang Suling,6,3,5,2,1,1,5,3,1,2,2,1,1,YA,500,630,KEDOKTERAN
+19,5,Laki-Laki,3.5,3,Tak ada,Calon Genderang Suling,4,3,5,1,1,1,4,2,1,2,2,1,1,TIDAK,500,630,KEDOKTERAN
+19,5,Laki-Laki,3.5,2,Humas,Orkestra,5,3,4,1,1,3,3,2,1,1,2,1,1,TIDAK,0,630,INFORMATIKA
+19,5,Perempuan,3.5,6,Tak ada,Calon Genderang Suling,5,7,6,4,2,4,3,2,3,3,1,4,4,TIDAK,0,630,KEDOKTERAN
+18,5,Laki-Laki,3.5,3,Tak ada,Paduan Suara,3,2,4,2,3,3,3,2,2,3,3,1,3,TIDAK,0,630000,KEDOKTERAN
+18,5,Laki-Laki,3.5,3,Tak ada,Calon Genderang Suling,4,6,6,0,0,0,5,4,0,4,4,0,0,TIDAK,0,530,KEDOKTERAN
+18,5,Laki-Laki,3.5,4,Tak ada,Calon Genderang Suling,6,3,6,2,2,2,4,1,1,1,2,1,1,TIDAK,0,630,KEDOKTERAN
+19,5,Perempuan,3.5,5,Humas,Orkestra,5,5,5,4,3,3,3,2,3,4,2,3,3,YA,0,630,KEDOKTERAN
+19,5,Laki-Laki,3.5,15,Tak ada,Calon Genderang Suling,2,3,6,3,2,2,4,4,3,2,2,3,2,TIDAK,1000000,630,KEDOKTERAN
+18,5,Laki-Laki,3.49,5,Tak ada,Calon Genderang Suling,5,4,5,3,3,3,3,2,2,2,2,3,2,TIDAK,100000,600,KIMIA
+19,5,Perempuan,3.49,5,Tak ada,Orkestra,5,3,4,2,4,2,5,3,2,3,2,3,2,TIDAK,1400000,630,KEDOKTERAN
+19,5,Laki-Laki,3.48,3,Tak ada,Orkestra,4,2,6,3,2,2,4,2,2,3,3,2,3,TIDAK,500000,630,KEDOKTERAN
+20,5,Laki-Laki,3.46,3,Tak ada,Calon Genderang Suling,4,2,4,3,3,2,3,3,2,2,1,2,3,TIDAK,1000000,600,KEDOKTERAN
+19,5,Laki-Laki,3.44,4,Tak ada,Calon Genderang Suling,2,2,4,2,3,1,3,1,1,4,2,2,1,TIDAK,500,630,KEDOKTERAN
+18,5,Laki-Laki,3.43,12,Humas,Calon Genderang Suling,3,2,5,2,2,2,3,2,2,2,2,2,2,YA,300000,630000,FISIKA
+20,5,Laki-Laki,3.43,4,Rohis,Calon Genderang Suling,7,7,6,2,0,1,4,2,1,1,3,1,1,YA,500,630,TEKNIK ELEKTRO
+19,5,Laki-Laki,3.43,4,Tak ada,Calon Genderang Suling,2,3,5,3,1,2,4,2,1,4,3,1,1,TIDAK,200000,600000,TEKNIK ELEKTRO
+20,4,Laki-Laki,3.43,7,Tak ada,Calon Genderang Suling,5,1,4,2,3,2,4,3,3,1,2,3,1,TIDAK,500,777,TEKNIK SIPIL
+19,5,Perempuan,3.43,4,Tak ada,Calon Genderang Suling,4,2,5,1,1,2,4,3,2,3,3,1,1,TIDAK,300,630,FARMASI
+19,5,Laki-Laki,3.42,2,Rohis,Calon Genderang Suling,5,35,3,3,3,3,4,2,3,2,3,2,3,TIDAK,200000,630000,KIMIA
+20,5,Perempuan,3.42,2,Tak ada,Calon Genderang Suling,4,2,4,2,2,2,4,3,2,2,3,2,2,TIDAK,800000,630,INFORMATIKA
+19,5,Perempuan,3.4,6,Tak ada,Calon Genderang Suling,3,3,5,2,2,2,3,2,2,2,2,2,2,TIDAK,0,630,FARMASI
+19,5,Laki-Laki,3.4,4,Tak ada,Calon Genderang Suling,4,2,5,3,3,4,3,2,3,1,1,2,2,YA,200000,670,KIMIA
+18,5,Laki-Laki,3.4,4,Tak ada,Calon Genderang Suling,4,2,4,2,2,4,2,1,3,2,2,3,3,TIDAK,200000,730,SEJARAH MILITER
+18,5,Laki-Laki,3.4,15,Tak ada,Orkestra,5,5,4,3,3,3,4,1,1,3,1,3,3,YA,2000000,1400000,KEDOKTERAN
+20,5,Laki-Laki,3.4,5,Tak ada,Orkestra,4,0,2,2,2,0,3,2,2,2,2,2,2,TIDAK,0,630,KIMIA
+19,5,Laki-Laki,3.4,5,Tak ada,Calon Genderang Suling,1,3,5,2,3,1,2,2,2,0,0,0,0,YA,250000,630000,KIMIA
+19,4,Perempuan,3.4,2,Flag Team,Calon Genderang Suling,5,5,5,2,3,1,4,3,0,3,3,1,2,TIDAK,1000000,777,TEKNIK MESIN
+18,5,Laki-Laki,3.4,7,Tak ada,Calon Genderang Suling,5,5,5,3,1,2,4,3,1,3,2,2,1,TIDAK,500,630,FARMASI
+18,5,Laki-Laki,3.4,10,Humas,Calon Genderang Suling,3,2,4,3,3,2,3,2,3,2,3,0,3,TIDAK,200000,620000,KEDOKTERAN
+19,5,Laki-Laki,3.4,10,Tak ada,Orkestra,4,6,4,0,0,1,5,2,2,2,3,2,1,TIDAK,0,600,BIOLOGI
+18,5,Laki-Laki,3.39,13,Rohis,Calon Genderang Suling,2,5,5,3,3,3,3,2,2,2,2,2,2,TIDAK,300,630,FISIKA
+17,5,Laki-Laki,3.38,4,Tak ada,Calon Genderang Suling,4,2,5,3,2,0,4,0,2,0,3,0,2,YA,100000,630,KEDOKTERAN
+19,4,Perempuan,3.37,4,Tak ada,Calon Genderang Suling,6,3,5,2,1,2,4,3,1,3,3,2,1,TIDAK,300,721,TEKNIK ELEKTRO
+18,5,Laki-Laki,3.35,6,Tak ada,Calon Genderang Suling,3,4,5,2,0,3,4,2,0,1,2,1,1,TIDAK,0,630,TEKNIK ELEKTRO
+18,5,Laki-Laki,3.35,5,Tak ada,Calon Genderang Suling,4,3,6,0,0,1,5,3,0,4,4,0,0,TIDAK,300,630,TEKNIK ELEKTRO
+19,5,Laki-Laki,3.34,3,Tak ada,Calon Genderang Suling,4,3,5,3,2,3,5,2,2,3,2,3,2,TIDAK,500,630,TEKNIK ELEKTRO
+19,5,Perempuan,3.33,2,Tak ada,Calon Genderang Suling,4,2,5,2,0,0,3,4,0,4,2,2,2,YA,200000,600,TEKNIK ELEKTRO
+18,5,Laki-Laki,3.31,8,Tak ada,Orkestra,4,2,2,2,1,1,5,2,2,4,4,1,0,TIDAK,1000000,630000,KIMIA
+18,5,Laki-Laki,3.3,3,Rohis,Calon Genderang Suling,3.5,7,5,4,3,4,3,2,2,2,2,2,3,TIDAK,0,600,TEKNIK ELEKTRO
+19,5,Perempuan,3.3,3,Rohis,Calon Genderang Suling,4,7,5,1,1,2,3,2,2,2,2,1,1,TIDAK,1000000,630,KEDOKTERAN
+18,5,Laki-Laki,3.28,5,Rohis,Orkestra,3,5,5,4,4,4,5,2,2,3,2,3,2,YA,500,630,TEKNIK ELEKTRO
+19,5,Laki-Laki,3.25,5,Tak ada,Calon Genderang Suling,6,3,5,3,3,4,2,3,2,3,4,4,4,TIDAK,500000,630000,TEKNIK ELEKTRO
+20,4,Perempuan,3.25,3,Tak ada,Calon Genderang Suling,7,7,6,3,3,2,4,2,1,3,2,3,1,TIDAK,300,777,INFORMATIKA
+20,4,Laki-Laki,3.21,7,Tak ada,Calon Genderang Suling,4,3,6,2,2,2,3,2,2,2,2,2,2,TIDAK,0,770000,FARMASI
+18,5,Laki-Laki,3.2,5,Tak ada,Calon Genderang Suling,2,5,5,2,2,2,3,2,2,2,2,2,2,YA,500,630,TEKNIK ELEKTRO
+19,5,Laki-Laki,3.2,5,Rohis,Calon Genderang Suling,3,3,4,2,2,3,3,2,2,2,2,2,3,TIDAK,0,630,TEKNIK ELEKTRO
+19,5,Perempuan,3.2,5,Tak ada,Calon Genderang Suling,6,3,6,2,3,3,3,2,2,1,2,1,2,YA,500,630,TEKNIK ELEKTRO
+18,5,Laki-Laki,3.2,5,Rohis,Calon Genderang Suling,5,5,6,4,0,4,5,4,4,4,4,4,4,TIDAK,500000,630000,TEKNIK ELEKTRO
+19,5,Perempuan,3.2,5,Tak ada,Orkestra,4,4,4,1,1,3,3,2,2,3,3,1,2,YA,10,630000,TEKNIK ELEKTRO
+18,5,Laki-Laki,3.2,15,Tak ada,Orkestra,4,2,6,3,3,2,4,3,2,2,3,4,2,TIDAK,0,630,KEDOKTERAN
+20,5,Laki-Laki,3.18,2,Tak ada,Orkestra,4,15,6,0,0,0,2,2,2,0,3,0,0,YA,0,630,INFORMATIKA
+18,5,Perempuan,3,5,Tak ada,Calon Genderang Suling,5,7,5,3,2,3,3,2,2,2,2,3,2,TIDAK,1000000,360,KEDOKTERAN
+19,5,Perempuan,3,5,Tak ada,Orkestra,6,3,4,2,2,3,4,2,2,2,2,1,1,TIDAK,0,6.300.000,MATEMATIKA
+19,5,Laki-Laki,3.6,6,Tak ada,Orkestra,4,3,5,2,1,3,4,2,1,3,2,2,2,TIDAK,500000,630000,KEDOKTERAN
+20,4,Perempuan,3.75,5,Polisi Kadet,Calon Genderang Suling,5,2,5,2,2,2,4,2,1,3,3,2,1,TIDAK,1000000,777,BIOLOGI
+19,5,Laki-Laki,3.48,4,Tak ada,Calon Genderang Suling,3,3,5,3,2,3,4,2,1,3,2,3,3,TIDAK,200,660,KEDOKTERAN
+21,4,Laki-Laki,4,4,Rohis,Calon Genderang Suling,4,3,5,1,1,1,4,3,1,4,3,1,1,YA,1000000,777000,KIMIA
